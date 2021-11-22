@@ -1,0 +1,39 @@
+/* Header Styles */
+
+header {
+    display: flex;
+    width: 960px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 62px 62px 0 62px;
+    background: coral;
+}
+
+.header-span {
+    font-size: 32px;
+    font-weight: bold;
+    color: #3D37F1;
+    font-family: 'Lato';
+
+}
+
+.header-span2 {
+    font-weight: lighter;
+    color: #4B647E;
+} 
+
+.ul {
+    display: flex;
+    width: 581px;
+    justify-content: space-between;
+
+}
+ 
+
+a {
+    font-family: 'Lato';
+    font-size: 20px;
+    font-weight: bold;
+    color: #3D37F1;
+    text-transform: uppercase;
+}
